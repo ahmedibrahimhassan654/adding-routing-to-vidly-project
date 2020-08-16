@@ -7,7 +7,7 @@ import Customers from "./components/customers.jsx";
 import Rentals from "./components/rentals.jsx";
 import NotFound from "./components/notFound.jsx";
 import NavBar from "./components/navBar";
-import "./App.css";
+import "./index.css";
 
 class App extends Component {
   render() {
